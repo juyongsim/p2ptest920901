@@ -1,5 +1,7 @@
-name = "p2p-app"
+# wrangler.toml
+name = 'p2ptest920901'
 pages_build_output_dir = "dist"
+compatibility_date = "2026-03-01" # 오늘 날짜 혹은 최근 날짜 추가
 
 [vars]
 # Add your environment variables here
