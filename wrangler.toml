@@ -1,0 +1,6 @@
+name = "p2p-app"
+pages_build_output_dir = "dist"
+
+[vars]
+# Add your environment variables here
+# VITE_API_URL = "https://your-api.com"
